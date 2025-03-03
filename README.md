@@ -1,30 +1,3 @@
 # Prisjakt
 Philips TV- Prisjakt
-<rss xmlns:pj="https://schema.prisjakt.nu/ns/products-1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
-<channel>
-<title>Prisjakt Example Product Feed</title>
-<description>This is an example product feed with all possible values</description>
-<link>https://schema.prisjakt.nu</link>
-<item>
-<g:brand>
-<![CDATA[ Philips ]]>
-</g:brand>
-<g:description>
-<![CDATA[ Föreställ dig följande. Härliga biokvällar hemma. Smidiga spelförflyttninga surroundljud. Oändliga valmöjligheter med Smart-TV. Och 4K Ambilight-TV med ljus som flödar runt skärmen. The One är inte bara lätt att använda, den har all ]]>
-</g:description>
-<g:gtin>8718863046333</g:gtin>
-<g:id>
-<![CDATA[ 55PUS9000/12 ]]>
-</g:id>
-<g:image_link>1_9000.jpg</g:image_link>
-<g:item_group_id>PUS9000/12</g:item_group_id>
-<g:mpn>55PUS9009</g:mpn>
-<g:attribute_name>
-<![CDATA[ Ambilight ]]>
-</g:attribute_name>
-<g:title>
-<![CDATA[ Philips The ONE 55PUS9000 QLED Smart Ambilight TV ]]>
-</g:title>
-</item>
-</channel>
-</rss>
+Please contact emelie.neidenmark@tpv-tech.com for any questions regarding the product information
